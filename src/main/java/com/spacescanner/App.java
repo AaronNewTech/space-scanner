@@ -3,7 +3,6 @@ package com.spacescanner;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 import com.spacescanner.service.SpaceXApiService;
-
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintStream;

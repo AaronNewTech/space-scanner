@@ -1,0 +1,5 @@
+com/spacescanner/service/SpaceXApiService.class
+com/spacescanner/config/AppConfig.class
+com/spacescanner/server/SimpleHttpServer.class
+com/spacescanner/App.class
+com/spacescanner/config/WebAppInitializer.class
