@@ -1,3 +1,5 @@
+// mvn exec:java -Dexec.mainClass="com.spacescanner.server.SimpleHttpServer"
+
 package com.spacescanner.server;
 
 import io.helidon.common.http.Http;

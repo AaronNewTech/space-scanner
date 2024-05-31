@@ -1,3 +1,5 @@
+// mvn exec:java -Dexec.mainClass="com.spacescanner.App"
+
 package com.spacescanner;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
